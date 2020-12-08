@@ -5,8 +5,7 @@ I find this a super handy extension for browsing images from the terminal, so fe
 
 # file included
 This is a straight rip from the examples paragrapth under [Sample Code](https://iterm2.com/documentation-images.html)
-Sample code for displaying images may be found here.
-* imgls - Provides an augmented directory listing that includes a thumbnail of each image in a directory.
-* imgcat - Displays one or more images inline at their full size.
-* it2dl - Downloads a file, but does not display it inline.
-* divider - Draws a full-width, one line-tall graphical divider.
+* [imgls](https://raw.githubusercontent.com/randomtask2000/iTerm2Images/main/imgls) - Provides an augmented directory listing that includes a thumbnail of each image in a directory.
+* [imgcat](https://raw.githubusercontent.com/randomtask2000/iTerm2Images/main/imgcat) - Displays one or more images inline at their full size.
+* [it2dl](https://raw.githubusercontent.com/randomtask2000/iTerm2Images/main/it2dl) - Downloads a file, but does not display it inline.
+* [divider](https://raw.githubusercontent.com/randomtask2000/iTerm2Images/main/divider) - Draws a full-width, one line-tall graphical divider.
